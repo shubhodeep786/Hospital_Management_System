@@ -4,7 +4,7 @@
 Clone the project
 
 ```bash
-  git clone https://github.com/piyush-agrawal6/Hospital-Management-System.git
+  https://github.com/shubhodeep786/Hospital_Management_System.git
 ```
 
 Go to the project directory
